@@ -30,11 +30,7 @@ public class BpjsApi {
     String baseUrl = "https://new-api.bpjs-kesehatan.go.id:8080/";
     String baseUrlAplicare = "https://new-api.bpjs-kesehatan.go.id/";
     String serviceName = "new-vclaim-rest/";
-    // CONS ID DEVELOPMENT
-//    String constId = "22850";
-//    String secretKeys = "5uG9686834";
-//    private final String baseUrl = "https://dvlp.bpjs-kesehatan.go.id/";
-//    private final String serviceName = "vclaim-rest-1.1/";
+
     public String timeStamp;
     public HttpEntity<String> httpEntity;
 
