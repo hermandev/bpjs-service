@@ -3,7 +3,7 @@
 
 ## Settings
 
-ubah nilai pada file ```./src/main/java/id/codecorn/bpjsservice/utils/BpjsApi.java```
+ubah nilai pada file [```./src/main/java/id/codecorn/bpjsservice/utils/BpjsApi.java```](https://github.com/hermandev/bpjs-service/blob/main/src/main/java/id/codecorn/bpjsservice/utils/BpjsApi.java)
 
 ```java
     String kodePpk = "KODE_PK";
