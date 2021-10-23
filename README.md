@@ -10,3 +10,5 @@ ubah nilai pada file ```./src/main/java/id/codecorn/bpjsservice/utils/BpjsApi.ja
     String constId = "CONST_ID";
     String secretKeys = "SECRET_KEYS";
 ```
+
+service berjalan pada port ```8301```
